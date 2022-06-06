@@ -1,6 +1,5 @@
 # Hydrogen Atom Visualisation
  
  Hydrogen Atom Electron Density Distribution Visualisation (3p)
-<img width="1389" alt="image" src="https://user-images.githubusercontent.com/43814396/172125790-0e03006b-1048-45a0-adad-9bde84f6301a.png">
-
+https://user-images.githubusercontent.com/43814396/172164258-6200c79d-b4da-4d55-ba06-0253a6f188aa.mp4
 
