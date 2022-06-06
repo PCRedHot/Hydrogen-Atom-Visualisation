@@ -6,12 +6,12 @@ https://user-images.githubusercontent.com/43814396/172164258-6200c79d-b4da-4d55-
 
 ## Run it 🚀
 
-Python 3
+#### Python 3
 ```bash
 python -m http.server 8000
 ```
 
-Python 2
+#### Python 2
 ```bash
 python -m SimpleHTTPServer 8000
 ```
