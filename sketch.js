@@ -43,8 +43,8 @@ for (let x = render_min; x <= render_max; x += sprite) {
 			let phi = Math.atan2(z, r_xy);
 			let theta = Math.atan2(y, x);
 
-			//let prob = ((a0 ** (-3 / 2)) * ((r / a0) ** 2 )* Math.exp(-r / 3 / a0) * (Math.sin(theta) ** 2)) ** 2 * (Math.cos(phi) ** 2 - Math.sin(phi) ** 2) / Math.PI;
-			let prob = (a0 ** (-3 / 2) * (6 - r / a0) * (r / a0) * Math.exp(-r / 3 / a0) * Math.cos(theta))**2 /(5/a0);
+			//let prob = ((a0 ** (-3 / 2)) * ((r / a0) ** 2 )* Math.exp(-r / 3 / a0) * (Math.sin(theta) ** 2)) ** 2 * (Math.cos(phi) ** 2 - Math.sin(phi) ** 2) / Math.PI;	// 3d
+			let prob = (a0 ** (-3 / 2) * (6 - r / a0) * (r / a0) * Math.exp(-r / 3 / a0) * Math.cos(theta))**2 /(5/a0);		// 3p
 
 			if (Math.random() <= prob) {
 				//console.log([x, y, z]);
