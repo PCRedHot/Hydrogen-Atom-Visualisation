@@ -1,4 +1,4 @@
-# Hydrogen Atom Visualisation
+# [Hydrogen Atom Visualisation](https://pcredhot.github.io/hydrogen_atom_visualisation/index.html)
  
  Hydrogen Atom Electron Density Distribution Visualisation (3p)
  
